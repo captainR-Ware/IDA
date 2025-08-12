@@ -27,6 +27,15 @@ component_defective_flag	变速箱组件是否有缺陷（0 = 否，1 = 是）
 component_defective_date	变速箱组件缺陷记录日期
 component_defective_mileage	变速箱组件缺陷发生时的里程数（公里）
 
+### case_part.csv
+part_id 零件id
+part_production_date 零件的生产时间
+component_id 零部件所在的组建 id
+part_defective_flag	变速箱组件是否有缺陷（0 = 否，1 = 是）
+part_defective_date	变速箱组件缺陷记录日期
+part_defective_mileage	变速箱组件缺陷发生时的里程数（公里）
+
+
 
 ### Logistics_delay.csv 用于一般问题 task1，
 字段名	含义
